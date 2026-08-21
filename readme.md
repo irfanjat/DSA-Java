@@ -13,26 +13,6 @@ The main goal is to build strong **problem-solving and logical thinking skills**
 * Prepare for technical/coding interviews
 * Maintain a record of my DSA progress
 
-
-## 📂 Repository Structure
-
-```text
-DSA/
-├── Arrays/
-├── Strings/
-├── Searching/
-├── Sorting/
-├── Recursion/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Heaps/
-├── Graphs/
-├── DynamicProgramming/
-└── README.md
-```
-
 ## 🛠️ Approach
 
 For each topic, I follow this process:
