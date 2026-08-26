@@ -1,6 +1,6 @@
 # 🧠 Data Structures & Algorithms
 
-This repository contains my **Data Structures & Algorithms (DSA)** learning journey, following the **Kunal Kushwaha DSA Playlist**.
+This repository contains my **Data Structures & Algorithms (DSA)** learning journey.
 
 The main goal is to build strong **problem-solving and logical thinking skills** while preparing for **technical interviews**.
 
